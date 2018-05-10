@@ -1,0 +1,7 @@
+1.These programmers are stupid people who care little for others. A good programmer assumes, like a
+2.good scientist, that there’s always some probability their code is wrong. Good programmers start from
+3.the premise that their software is broken and then work to rule out all possible ways it could be wrong
+4.before finally admitting that maybe it really is the other guy’s code.
+5.In this exercise, you will practice dealing with a bad programmer by fixing a bad programmer’s code.
+6.I have poorly copied Exercises 24 and 25 into a file and removed random characters and added flaws.
+7.Most of the errors are things Python will tell you, while some of them are math errors you should find
